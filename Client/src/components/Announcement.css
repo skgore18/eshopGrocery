@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+.containerAnn{
+height : 30px;
+background-color : teal;
+color : white;
+display : flex;
+font-size : 14px;
+font-weight : 500;
+align-items : center;
+justify-content : center;
+=======
+.containerAnn{
+height : 30px;
+background-color : teal;
+color : white;
+display : flex;
+font-size : 14px;
+font-weight : 500;
+align-items : center;
+justify-content : center;
+>>>>>>> ebfd4258418cc50828d3b35c9aa9be5a4de1ee6f
+}
